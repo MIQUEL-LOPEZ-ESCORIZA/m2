@@ -1,0 +1,6 @@
+data/
+newyorker_caption_contest/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+milestone_2_guidelines.txt
